@@ -30,13 +30,5 @@ function open_close() {
         LINE : @nigoal69
       </span>
     </a>
-    <!-- Telegram -->
-    <!-- <a class="tt_img_fixed fx_telegram" target="_blank" href="https://t.me/sexygame6669"><img
-        src="https://sexygame666d.com/wp-content/uploads/2024/05/qr-code-1.png">
-      <span class="tt_tx_telegram"> <img
-          src="https://sexygame666d.com/wp-content/themes/sexygame66.com/images/telegram.png"> Telegram :
-        @SEXYGAME6669</span>
-    </a> -->
-    <!-- END Telegram -->
   </div>
 </template>

@@ -1,19 +1,9 @@
 <template>
   <div class="tt-l tt-full head_mc">
-    <a class="tt_l logo_m install_m  " href="#" onclick="install_app()" style="display: none;"><img width="800"
-        height="220" onclick="install_app()" src="../../head-download.png">
-    </a><a href="#" onclick="closeapp()" class="team-popup-close logo_m install_m" style="display: none;">×</a>
     <div class="tt_l h-linem">
       <a href="https://app.nigo69.com/Register/reg/Vm8xeVUzWlpOSTV6dUYyYWdGT2tzZz09" target="_blank"><img width="140"
           height="46" src="/public/img/button-lineadd.jpg"></a>
     </div>
-    <!-- Telegram -->
-    <!-- 
-    <div class="tt_l m-telegram">
-      <a href="https://t.me/sexygame6669" target="_blank"><img src="/public/img/telegram.png"><span>
-          @</span></a>
-    </div> -->
-    <!-- END Telegram -->
   </div>
   <div class="tt_l tt_full">
     <div class="tt_l tt_full header_ar">
@@ -131,33 +121,3 @@
 
 }
 </style>
-
-<script>
-// function closeapp() {
-//   $('.install_m').hide();
-//   var exdays = 1;
-//   var d = new Date();
-//   d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
-//   var expires = "expires=" + d.toUTCString();
-//   document.cookie = 'hideapp' + "=" + 'hideapp' + ";" + expires + ";path=/";
-// }
-
-
-// function GetCookie_xx(name) {
-//   var result = null;
-//   var myCookie = " " + document.cookie + ";";
-//   var searchName = " " + name + "=";
-//   var startOfCookie = myCookie.indexOf(searchName);
-//   var endOfCookie;
-//   if (startOfCookie != -1) {
-//     startOfCookie += searchName.length; // skip past name of cookie
-//     endOfCookie = myCookie.indexOf(";", startOfCookie);
-//     result = unescape(myCookie.substring(startOfCookie, endOfCookie));
-//   }
-//   return result;
-// }
-
-// if (GetCookie_xx('hideapp') == 'hideapp') {
-//   jQuery('.install_m').hide();
-// }
-</script>
