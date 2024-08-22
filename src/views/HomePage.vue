@@ -33,7 +33,6 @@ const breakpoints = {
 </script>
 
 <template>
-    <link rel="stylesheet" id="css" href="/public/css/bootstrap.min.css" type="text/css" media="all" />
     <div class="wrapper">
         <div class="tt_l tt_full  c_bg">
             <div class="tt_l tt_full">
