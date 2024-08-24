@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "vite",
-    "build": "vite build && cp public/robots.txt dist && cp public/img/* dist && cp public/css/* dist && cp public/font/* dist",
+    "build": "vite build && cp public/sitemap.xml dist && cp public/robots.txt dist && cp public/img/* dist && cp public/css/* dist && cp public/font/* dist",
     "preview": "vite preview",
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
     "format": "prettier --write src/"
