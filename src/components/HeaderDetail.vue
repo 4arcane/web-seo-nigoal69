@@ -1,7 +1,7 @@
 <template>
   <div class="tt-l tt-full head_mc">
     <div class="tt_l h-linem">
-      <a href="https://app.nigo69.com/Register/reg/Vm8xeVUzWlpOSTV6dUYyYWdGT2tzZz09" target="_blank"><img width="140"
+      <a href="https://line.me/R/ti/p/@803ecwjm?from=page&liff.referrer=https%3A%2F%2Fnigoal69.org%2F&accountId=803ecwjm#~" target="_blank"><img width="140"
           height="46" src="/public/img/button-lineadd.jpg"></a>
     </div>
   </div>
@@ -41,7 +41,7 @@
             <div class="tt_l head_m_link">
               <a class="tt_l logo_m" href="/"></a>
               <a class="tt_l head_m_line" title="แอดไลน์  ID : @nigoal69" target="_blank"
-                href="https://line.me/ti/p/~@nigoal69"></a>
+                href="https://line.me/R/ti/p/@803ecwjm?from=page&liff.referrer=https%3A%2F%2Fnigoal69.org%2F&accountId=803ecwjm#~"></a>
             </div>
           </div>
         </div>
@@ -87,7 +87,7 @@
                 class="hide login menu-item menu-item-type-post_type menu-item-object-page menu-item-1058"><a
                   href="/"><i class="fas fa-credit-card"> </i> ฝากเงิน</a></li>
               <li id="menu-item-404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a
-                  href="https://app.nigo69.com/Register/reg/Vm8xeVUzWlpOSTV6dUYyYWdGT2tzZz09"><i
+                  href="https://line.me/R/ti/p/@803ecwjm?from=page&liff.referrer=https%3A%2F%2Fnigoal69.org%2F&accountId=803ecwjm#~"><i
                     class="fas fa-phone"></i>
                   ติดต่อเรา</a></li>
             </ul>

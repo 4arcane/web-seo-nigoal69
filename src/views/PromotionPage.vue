@@ -8,7 +8,7 @@ l<template>
                         <div class="thaitheme_read">
                             <div class="row mt-3 pb-3" style="border-bottom:1px solid #ccc!important;">
                                 <div class="col-lg-7 col-12">
-                                    <a href="https://app.nigo69.com/Register/reg/Vm8xeVUzWlpOSTV6dUYyYWdGT2tzZz09"><img
+                                    <a href="https://line.me/R/ti/p/@803ecwjm?from=page&liff.referrer=https%3A%2F%2Fnigoal69.org%2F&accountId=803ecwjm#~"><img
                                             src="/public/img/Banner_4.jpg" class="img-fluid"></a>
                                 </div>
                                 <div class="col-lg-5 col-12">

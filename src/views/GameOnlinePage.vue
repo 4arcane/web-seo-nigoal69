@@ -41,7 +41,7 @@ l<template>
                                     </p>
                                     <div class="buttonregister text-center mt-1">
                                         <div class="imgglow cursorp">
-                                            <a href="https://app.nigo69.com/Register/reg/Vm8xeVUzWlpOSTV6dUYyYWdGT2tzZz09"
+                                            <a href="https://line.me/R/ti/p/@803ecwjm?from=page&liff.referrer=https%3A%2F%2Fnigoal69.org%2F&accountId=803ecwjm#~"
                                                 rel="nofollow noreferrer noopener" target="_blank">
                                                 <img src="/public/img/line-add.png" style="height: 120px;"
                                                     alt="ปุ่มสมัครสมาชิก NIGOAL69">
@@ -65,7 +65,7 @@ l<template>
                                             การเลือกช่องทางสำหรับการเล่นสล็อตถือว่าเป็นเรื่องที่สำคัญไม่น้อยไปกว่าการเลือกเกมและค่ายเกมในการเล่นเลย
                                         </p>
                                         <p data-v-ba22fba0=""> ปัจจุบัน ใครๆ ก็อาจจะรู้จัก <a
-                                                href="https://app.nigo69.com/Register/reg/Vm8xeVUzWlpOSTV6dUYyYWdGT2tzZz09"
+                                                href="https://line.me/R/ti/p/@803ecwjm?from=page&liff.referrer=https%3A%2F%2Fnigoal69.org%2F&accountId=803ecwjm#~"
                                                 data-v-ba22fba0="">สล็อตคืออะไร</a> มาก่อนแล้วกันทั้งนั้น
                                             แน่นอนว่านักเดิมพันออนไลน์หน้าใหม่บางท่านเอง อาจจะพลาดการทำกำไรแบบงงๆ
                                             หากว่าเราเลือกเล่นกับเว็บผิด จึงไม่แปลกใจที่เราเล่นเท่าไหร่ก็ไม่ได้เงินสักที

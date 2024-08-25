@@ -24,7 +24,7 @@ function open_close() {
   <div id="topbar" class="fxx" style="position: fixed; top: 230px;">
     <div id="close_topbar_r" class="tt_btn_close" @click="open_close"><i class="fa fa-times"></i></div>
     <div id="open_topbar_r" class="tt_btn_open" @click="open_close"><i class="fa fa-plus"></i></div>
-    <a id="lineadd" class="tt_img_fixed" target="_blank" href="https://line.me/R/ti/p/@147ucewm?oat_content=url&ts=06181339">
+    <a id="lineadd" class="tt_img_fixed" target="_blank" href="https://line.me/R/ti/p/@803ecwjm?from=page&liff.referrer=https%3A%2F%2Fnigoal69.org%2F&accountId=803ecwjm#~">
       <img src="/public/img/QR_NIGOAL69.png">
       <span class="tt_tx_line">
         LINE : @nigoal69
